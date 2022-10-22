@@ -1,7 +1,7 @@
 #include"ComplexNum.h"
 void ComplexNum::Input()
 {
-	cout << "\nInput the real and the imaginary of a complex number: ";
+	cout << "\nInput the real and the imaginary parts of a complex number: ";
 	cin >> Real >> Imaginary;
 }
 
